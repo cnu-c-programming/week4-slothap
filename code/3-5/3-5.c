@@ -11,7 +11,7 @@ void my_print(char type, void* x){
 }
 
 int main(){
-    int a = 0x51;
+    int a = 0x61;
     char b = 'b';
     char* c = "hello world";
 
